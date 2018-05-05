@@ -1,20 +1,24 @@
 # Meat - Angular App
 
-## 0. Installing Dependencies 
+## Instructions
 
-`npm install
+### 1. Cloning Repository 
 
-## 1. Starting Server
+`git clone https://github.com/cod3rcursos/meat-app-starter.git`
+
+### 2. Installing Dependencies 
+
+`npm install`
+
+### 3. Starting Server
 
 `ng serve` ou `npm start`
 
-## 2. Starting Backend
-
-### Installing json-server
+### 4. Installing json-server
 
 `npm install -g json-server`
 
-### Start srevice (app root)
+### 5. Start service (app root)
 
 `json-server db.json`
 
